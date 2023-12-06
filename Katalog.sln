@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatalogUI", "Katalog\KatalogUI.csproj", "{C44576F9-A595-42CA-996A-63BE7BE55EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatalogLibrary", "KatalogLibrary\KatalogLibrary.csproj", "{DD1D2283-C673-474A-AF47-B64236197F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44576F9-A595-42CA-996A-63BE7BE55EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44576F9-A595-42CA-996A-63BE7BE55EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44576F9-A595-42CA-996A-63BE7BE55EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44576F9-A595-42CA-996A-63BE7BE55EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1D2283-C673-474A-AF47-B64236197F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1D2283-C673-474A-AF47-B64236197F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1D2283-C673-474A-AF47-B64236197F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1D2283-C673-474A-AF47-B64236197F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC0AFEF-C1E7-4A72-B34B-39B225B85AC8}
+	EndGlobalSection
+EndGlobal
